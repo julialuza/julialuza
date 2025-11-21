@@ -12,7 +12,7 @@ I love solving complex problems, building practical projects, and exploring emer
 
 ---
 
-## 💻 Skills
+## Skills
 
 ### Programming & Tech
 - **Languages:** Python, SQL, HTML, CSS, Java (basics)  

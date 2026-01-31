@@ -15,7 +15,7 @@ I love solving complex problems, building practical projects, and exploring emer
 ## Skills
 
 ### Programming & Tech
-- **Languages:** Python, SQL, HTML, CSS, Java (basics)  
+- **Languages:** Python, SQL, HTML, CSS, C#, Java (basics)  
 - **Libraries & Frameworks:** Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow, Flask  
 - **Tools & Platforms:** Git, GitHub, Power BI, MySQL, VS Code, PyCharm  
 

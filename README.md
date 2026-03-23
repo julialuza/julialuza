@@ -1,11 +1,11 @@
 # Hi there 👋, I'm Julia
 
-I'm a Computer Science student passionate about **Python development, Data Analytics, and Machine Learning**.  
+I'm a Computer Science student passionate about **Python development, Data Engineering, and Machine Learning**.  
 I love solving complex problems, building practical projects, and exploring emerging technologies like **AI and GenAI**.  
 
 ---
 
-## 🔭 Currently
+## Currently
 - Enhancing my skills in **Python, SQL, and data engineering**.  
 - Completing **Data Science specialization courses** (Coursera, Udemy).  
 - Working on **Machine Learning and database projects** for practice and portfolio.

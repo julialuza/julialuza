@@ -4,9 +4,9 @@ I'm a final year Computer Science student passionate about **Python development,
 I love solving complex problems, building practical projects, and exploring emerging technologies like **AI and GenAI**.  
 
 ## Currently
-- Developing my **Engineering Thesis: Recommendation System**, focusing on data processing, feature engineering, and model evaluation  
+- Building an end-to-end **Hybrid Explainable Recommendation System** as my Engineering Thesis, integrating scalable data processing, feature engineering, hybrid recommendation models, PostgreSQL, model evaluation, and an interactive Streamlit interface.
 - Enhancing my skills in **Python, SQL, and data engineering**.  
-- Building practical **data pipelines and data-driven applications** supporting analytical and ML workflows  
+- Developing practical **data pipelines and data-driven applications** supporting analytical and ML workflows  
 - Expanding knowledge in **Machine Learning, NLP, and Generative AI (LLMs) for real-world use cases**
 
 ---
